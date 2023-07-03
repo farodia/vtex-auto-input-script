@@ -1,0 +1,1 @@
+# vtex-auto-input-script
